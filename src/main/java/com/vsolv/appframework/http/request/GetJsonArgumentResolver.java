@@ -1,4 +1,4 @@
-package com.vsolv.appframework;
+package com.vsolv.appframework.http.request;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.core.MethodParameter;

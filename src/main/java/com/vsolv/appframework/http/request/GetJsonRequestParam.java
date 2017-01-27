@@ -1,4 +1,4 @@
-package com.vsolv.appframework;
+package com.vsolv.appframework.http.request;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
