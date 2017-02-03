@@ -1,4 +1,4 @@
-package com.vsolv.appframework;
+package com.vsolv.appframework.http.request;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
