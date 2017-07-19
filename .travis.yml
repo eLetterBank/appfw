@@ -5,7 +5,7 @@ addons:
   sonarcloud:
     organization: "eletterbank-github"
     token:
-      secure: "7910b7f68a96415b1da64e08c6eb0a352855417c"
+      secure: "5b35f1d3ed234a627cfdaa0a5183778bc439b03d"
 jdk:
   - oraclejdk8
 script:
