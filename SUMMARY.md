@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
 * [Guide](guide.md)
 * [API](api.md)
 * [FAQ](faq.md)

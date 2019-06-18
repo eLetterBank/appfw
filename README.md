@@ -1,8 +1,8 @@
 ---
-description: This is a test page
+description: This is an introduction page
 ---
 
-# Initial page
+# Introduction
 
 The objective of this page is to document the project details that were created by me in [github](https://github.com/eLetterBank).
 
